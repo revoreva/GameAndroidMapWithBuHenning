@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.revoreva.maze" version="1.0.0.0">
 
-	<name>Maze</name>
+	<name>Maze Coba</name>
 	<description>Wonder around Maze</description>
-	<author href="http://revoreva.tumblr.com" email="ryp_reaper@yahoo.com">Reva Yoga P</author>
+	<author href="http://revoreva.tumblr.com" email="ryp_reaper@yahoo.com">Lord Shiva (edit by revoreva)</author>
 
 	<icon src="icon-128.png" width="128" height="128" gap:role="default" />
 
@@ -11,7 +11,7 @@
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
-	<preference name="orientation" value="default" />
+	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
 	<preference name="target-device" value="universal" />
 
